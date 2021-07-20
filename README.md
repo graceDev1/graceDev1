@@ -1,16 +1,39 @@
-### Hi there 👋
+<h2> Hey there! NSHOKANO BIRINDWA Grace 👋</h2>
 
-<!--
-**graceDev1/graceDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About Me</h3>
 
-Here are some ideas to get you started:
+I am Software developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<h3>🛠 Tech. Stacks</h3>
+
+- 💻 Mobile Application Development:Java Android.
+- 💻 Web Application Development: ReactJS,NextJs, NodeJS, ExpressJS,Javascript ,GraphQL ,Typescript, Redux, HTML5, CSS3,Bootstrap, TailWindcss. 
+- 💻 Test Driven Development: Jest
+- 💻 Enterprise Application Development(Desktop): Java (Swing)
+- 💻 Database Developement : SQL Server, MySQL, SQL Lite, MongoDB, Firebase.
+- 💻 Devops: Heroku, Hosting, Git, GitHub, Docker, NPM.
+
+
+<h3>🛠 Design</h3>
+
+💻 UI/UX Design: Figma, Adobe XD
 -->
+
+ <h3>📞 Talk to me</h3>
+
+   <br/>
+
+  <a href="https://www.linkedin.com/in/birindwa-grace-33b305185/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/BirindwaGrace2">    
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+
+Get in touch with me on: <a href='mailto:birindwan@gmail.com'>birindwan@gmail.com</a>
+
+
+⭐️ From [birindwan](https://github.com/graceDev1)
