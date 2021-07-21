@@ -35,5 +35,9 @@ I am Software developer
 
 Get in touch with me on: <a href='mailto:birindwan@gmail.com'>birindwan@gmail.com</a>
 
+![](https://github-readme-stats.vercel.app/api?username=gracebir&show_icons=true&count_private=true)
 
-⭐️ From [birindwan](https://github.com/graceDev1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gracebir&layout=compact)
+
+
+⭐️ From [birindwan](https://github.com/gracebir)
