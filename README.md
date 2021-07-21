@@ -8,7 +8,7 @@ I am Software developer
 <h3>🛠 Tech. Stacks</h3>
 
 - 💻 Mobile Application Development:Java Android.
-- 💻 Web Application Development: ReactJS,NextJs, NodeJS, ExpressJS,Javascript ,GraphQL ,Typescript, Redux, HTML5, CSS3,Bootstrap, TailWindcss. 
+- 💻 Web Application Development: ReactJS,NextJs, Django, NodeJS, ExpressJS,Javascript ,GraphQL ,Typescript, Redux, HTML5, CSS3,Bootstrap, TailWindcss. 
 - 💻 Test Driven Development: Jest
 - 💻 Enterprise Application Development(Desktop): Java (Swing)
 - 💻 Database Developement : SQL Server, MySQL, SQL Lite, MongoDB, Firebase.
