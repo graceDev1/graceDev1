@@ -40,4 +40,4 @@ Get in touch with me on: <a href='mailto:birindwan@gmail.com'>birindwan@gmail.co
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gracebir&layout=compact)
 
 
-⭐️ From [birindwan](https://github.com/gracebir)
+⭐️ From [grace](https://github.com/gracebir)
