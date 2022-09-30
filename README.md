@@ -37,7 +37,5 @@ Get in touch with me on: <a href='mailto:birindwan@gmail.com'>birindwan@gmail.co
 
 ![](https://github-readme-stats.vercel.app/api?username=gracebir&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gracebir&layout=compact)
-
 
 ⭐️ From [grace](https://github.com/gracebir)
