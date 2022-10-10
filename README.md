@@ -1,9 +1,8 @@
-<h2> Hey there! NSHOKANO BIRINDWA Grace 👋</h2>
+<h2> Hey there! Grace NSHOKANO BIRINDWA 👋</h2>
 
 <h3>About Me</h3>
 
-I am Software developer
-
+I am Junior Front-end developer. Love look and feel, and get it all framed into web development. 
 
 <h3>🛠 Tech. Stacks</h3>
 
